@@ -188,3 +188,10 @@ html, body {
     float: right;
     padding-right: 27px;
   }
+  #suomisvenska 
+  {
+    display: inline-block;
+    line-height: 28px;
+    font-size: small;
+    padding: 20px;
+  }
